@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48b7e7d5-a8c6-4ede-880d-b3aa9053fad2</dc:identifier>
+        <dc:title>Look to Windward</dc:title>
+        <dc:creator opf:file-as="Banks, Iain M." opf:role="aut">Iain M. Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-23T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The Twin Novae battle had been one of the last of the Idiran war, and one of the most horrific: desperate to avert their inevitable defeat, the Idirans had induced not one but two suns to explode, snuffing out worlds and biospheres teeming with sentient life. They were attacks of incredible proportion -- gigadeathcrimes. But the war ended, and life went on.  
+
+  Now, eight hundred years later, light from the first explosion is about to reach the Masaq' Orbital, home to the Culture's most adventurous and decadent souls. There it will fall upon Masaq's 50 billion inhabitants, gathered to commemorate the deaths of the innocent and to reflect, if only for a moment, on what some call the Culture's own complicity in the terrible event.  
+
+  Also journeying to Masaq' is Major Quilan, an emissary from the war-ravaged world of Chel. In the aftermath of the conflict that split his world apart, most believe he has come to Masaq' to bring home Chel's most brilliant star and self-exiled dissident, the honored Composer Ziller.  
+
+  Ziller claims he will do anything to avoid a meeting with Major Quilan, who he suspects has come to murder him. But the Major's true assignment will have far greater consequences than the death of a mere political dissident, as part of a conspiracy more ambitious than even he can know -- a mission his superiors have buried so deeply in his mind that even he cannot remember it.  
+
+  Hailed by SFX magazine as "an excellent hopping-on point if you've never read a Banks SF novel before," *Look to Windward* is an awe-inspiring immersion into the wildly original, vividly realized civilization that Banks calls the Culture.</dc:description>
+        <dc:publisher>Culture</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743421928</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Culture" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-11-24T09:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Look to Windward" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

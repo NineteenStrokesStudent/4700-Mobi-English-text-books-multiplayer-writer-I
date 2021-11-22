@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a7851f2-330a-4e20-b631-b7cc171985bc</dc:identifier>
+        <dc:title>Chimaera</dc:title>
+        <dc:creator opf:file-as="Irvine, Ian" opf:role="aut">Ian Irvine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-28T07:40:27.382000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Fantasy fiction. All resistance has been crushed. In a few minutes of overwhelming violence the Council's air-dreadnought fleet has destroyed Fiz Gorgo's defences. Xervish Flydd, Irisis and their rallies have been condemned to die in a brutal aerial spectacle designed to reinforce Chief Scrutator Ghorr's power and majesty. The only one left uncaptured is Nish, but he is trapped in a burning watchtower, and hunted by both the scrutators and his former lover, Ullii, whose twin brother he accidentally killed. Before Nish can hope to rescue his friends, he must convince Ullii to spare him, then overcome the most powerful cabal of mancers in the world as well as the Council's four hundred crack guards. And even if he succeeds, to win the war the allies still have to defeat the scrutators and overthrow Nennifer, the corrupt Council's dread bastion, before the rampaging lyrinx overwhelm all Santhenar.</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781841493251</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Three Worlds Cycle" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-23T02:16:36.194000+00:00" name="calibre:timestamp"/>
+        <meta content="Chimaera" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

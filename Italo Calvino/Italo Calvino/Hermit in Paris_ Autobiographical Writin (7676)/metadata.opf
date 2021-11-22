@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e02f811-39f9-4ae7-878a-fec55deb0cda</dc:identifier>
+        <dc:title>Hermit in Paris: Autobiographical Writings</dc:title>
+        <dc:creator opf:file-as="Calvino, Italo &amp; McLaughlin, Martin" opf:role="aut">Italo Calvino</dc:creator>
+        <dc:creator opf:file-as="Calvino, Italo &amp; McLaughlin, Martin" opf:role="aut">Martin McLaughlin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-10T17:41:50.170000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;This new volume of autobiographical writings (never before translated into English) by Calvino, whose short stories and novels gave him international acclaim as one of the 20th century's most important Italian fiction writers, is a welcome addition to his extensive works as well as to The Road to San Giovanni, a posthumous collection of autobiographical essays published more than a decade ago. This volume includes a series of articles and interviews that builds on the understanding of Calvino's life after World War II when he returned to Italy from the Communist resistance in the Alps, a period when Calvino felt a "moment of uncertainty" and a "perplexity about" his vocation as a writer before producing his first novel, The Cloven Viscount. The articles also feature Calvino's views on some of his most popular novels: "In the United States... the book of mine that became a hit was the one that you would have said was the furthest from American reading habits: Invisible Cities." But it is Calvino's lifelong fascination with America that makes this collection remarkable: more than half the book is given to an "American Diary 1959-1960," written during Calvino's two years traveling in the U.S., as he explores New York's thriving Greenwich Village and Actors Studio; a "violent, tough" Chicago; San Francisco's "squalid and filthy" beatnik scene; and Montgomery, Ala., where Calvino (who died in 1985) finds himself "in the middle" of "crucial days of struggle" of the Civil Rights movement. His diary reveals an obsession with what he later says most interests him as a writer: "daily life as the constant nourishment for writing." &lt;br /&gt;
+Copyright 2003 Reed Business Information, Inc. 
+&lt;/p&gt;
+
+&lt;h3&gt;From Library Journal&lt;/h3&gt;
+&lt;p&gt;Posthumous writings from Calvino. &lt;br /&gt;
+Copyright 2002 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375714269</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:12.009000+00:00" name="calibre:timestamp"/>
+        <meta content="Hermit in Paris: Autobiographical Writings" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
